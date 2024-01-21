@@ -44,23 +44,6 @@ Use these settings when adding a monitor:</b>
 </a>
 </details>
 
-### Deploy On Heroku 
-<details><summary>Deploy To Heroku</summary>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot">
-<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
-</a>
-</details>
-
-### Deploy On Koyeb
-<details><summary>Deploy To Koyeb</summary>
-<br>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/File-Store-Bot-With-Url-Shortner&branch=main&name=filestorevj"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-</details>
-
-### Demo Bot:
-<a href="https://telegram.me/VJ_Botz"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
-
 ![Configs](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
 
 - `API_ID` - Get this from [TelegramORG](https://telegram.org)
@@ -91,11 +74,8 @@ ban_user - [user_id] [ban_duration] [ban_reason] Ban Any User [Owner Only]
 unban_user - [user_id] Unban Any User [Owner Only]
 banned_users - Get All Banned Users [Owner Only]
 ```
-
-### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩:
-<a href="https://telegram.dog/vj_bot_disscussion"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-green.svg?logo=telegram"></a>
 ### 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:
-<a href="https://telegram.me/VJ_Botz"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Channel-yellow.svg?logo=telegram"></a>
+<a href="https://t.me/TeamAnimePedia">
 
 
 👲 <b>DEV</b>
